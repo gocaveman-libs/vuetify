@@ -5,6 +5,7 @@
 		["npm", "run-script", "build"]
 	],
 	"paths": [
-		"/dist/vuetify.js"
+		"/dist/vuetify.js",
+		"/dist/vuetify.css"
 	]
 }
