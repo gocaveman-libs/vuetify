@@ -1,0 +1,10 @@
+{
+	"url": "https://github.com/vuetifyjs/vuetify",
+	"build_commands": [
+		["npm", "install"],
+		["npm", "run-script", "build"]
+	],
+	"paths": [
+		"/dist/vuetify.js"
+	]
+}
